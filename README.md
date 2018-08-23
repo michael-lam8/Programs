@@ -1,3 +1,2 @@
-# Processing Sketches
-
-This repository contains programs created in Processing. The programs do not reflect any assignments, rather, they are created for leisure purposes.
+# Programs
+This repository contains programs written in different languages, hence the very creative repository name. These programs do not reflect any assignments, rather, they are created for leisure purposes.
